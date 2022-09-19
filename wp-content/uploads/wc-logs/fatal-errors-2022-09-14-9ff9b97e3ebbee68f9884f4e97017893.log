@@ -1,0 +1,54 @@
+2022-09-14T06:16:38+00:00 CRITICAL Uncaught TypeError: et_fb_generate_post_content_module_selector(): Argument #1 ($array) must be of type array, string given, called in /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/functions.php on line 10948 and defined in /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/functions.php:11005
+Stack trace:
+#0 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/functions.php(10948): et_fb_generate_post_content_module_selector('', 'theme_builder_c...')
+#1 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/helpers.php(2810): et_fb_get_builder_shortcode_object('product', 37, '')
+#2 /home/imartinovic/public_html/projekat/wp-includes/class-wp-hook.php(307): et_fb_backend_helpers('')
+#3 /home/imartinovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home/imartinovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/assets.php(349): do_action('et_fb_enqueue_a...')
+#6 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/view.php(119): et_fb_enqueue_assets()
+#7 /home/imartinovic/public_html/projekat/wp-includes/class-wp-hook.php(307): et_fb_wp_footer('')
+#8 /home/imartinovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#9 /home/imartinovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /home/imartinovic/public_html/projekat/wp-includes/general-template.php(3058): do_action('wp_footer')
+#11 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend-footer-template.php(18): wp_footer()
+#12 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php(216): require_once('/home/imartinov...')
+#13 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php(260): et_theme_builder_frontend_override_partial('footer', '', 'wp_footer')
+#14 /home/imartinovic/public_html/projekat/wp-includes/class-wp-hook.php(309): et_theme_builder_frontend_override_footer(NULL)
+#15 /home/imartinovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#16 /home/imartinovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#17 /home/imartinovic/public_html/projekat/wp-includes/general-template.php(82): do_action('get_footer', NULL, Array)
+#18 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend-body-template.php(15): get_footer()
+#19 /home/imartinovic/public_html/projekat/wp-includes/template-loader.php(106): include('/home/imartinov...')
+#20 /home/imartinovic/public_html/projekat/wp-blog-header.php(19): require_once('/home/imartinov...')
+#21 /home/imartinovic/public_html/projekat/index.php(17): require('/home/imartinov...')
+#22 {main}
+  thrown in /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/functions.php on line 11005
+
+2022-09-14T07:47:43+00:00 CRITICAL Uncaught TypeError: et_fb_generate_post_content_module_selector(): Argument #1 ($array) must be of type array, string given, called in /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/functions.php on line 10948 and defined in /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/functions.php:11005
+Stack trace:
+#0 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/functions.php(10948): et_fb_generate_post_content_module_selector('', 'theme_builder_c...')
+#1 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/helpers.php(2810): et_fb_get_builder_shortcode_object('product', 37, '')
+#2 /home/imartinovic/public_html/projekat/wp-includes/class-wp-hook.php(307): et_fb_backend_helpers('')
+#3 /home/imartinovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home/imartinovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/assets.php(349): do_action('et_fb_enqueue_a...')
+#6 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/view.php(119): et_fb_enqueue_assets()
+#7 /home/imartinovic/public_html/projekat/wp-includes/class-wp-hook.php(307): et_fb_wp_footer('')
+#8 /home/imartinovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#9 /home/imartinovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /home/imartinovic/public_html/projekat/wp-includes/general-template.php(3058): do_action('wp_footer')
+#11 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend-footer-template.php(18): wp_footer()
+#12 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php(216): require_once('/home/imartinov...')
+#13 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php(260): et_theme_builder_frontend_override_partial('footer', '', 'wp_footer')
+#14 /home/imartinovic/public_html/projekat/wp-includes/class-wp-hook.php(309): et_theme_builder_frontend_override_footer(NULL)
+#15 /home/imartinovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#16 /home/imartinovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#17 /home/imartinovic/public_html/projekat/wp-includes/general-template.php(82): do_action('get_footer', NULL, Array)
+#18 /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend-body-template.php(15): get_footer()
+#19 /home/imartinovic/public_html/projekat/wp-includes/template-loader.php(106): include('/home/imartinov...')
+#20 /home/imartinovic/public_html/projekat/wp-blog-header.php(19): require_once('/home/imartinov...')
+#21 /home/imartinovic/public_html/projekat/index.php(17): require('/home/imartinov...')
+#22 {main}
+  thrown in /home/imartinovic/public_html/projekat/wp-content/themes/Divi/includes/builder/functions.php on line 11005
+

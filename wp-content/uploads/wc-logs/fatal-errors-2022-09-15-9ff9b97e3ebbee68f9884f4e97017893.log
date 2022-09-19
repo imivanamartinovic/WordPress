@@ -1,0 +1,20 @@
+2022-09-15T18:14:00+00:00 CRITICAL Cannot redeclare promeni_cart() (previously declared in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php:46) in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 56
+
+2022-09-15T18:14:29+00:00 CRITICAL Cannot redeclare promeni_cart() (previously declared in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php:46) in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 56
+
+2022-09-15T18:14:33+00:00 CRITICAL Cannot redeclare promeni_cart() (previously declared in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php:46) in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 56
+
+2022-09-15T18:30:28+00:00 CRITICAL Cannot redeclare promeni_cart() (previously declared in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php:50) in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 60
+
+2022-09-15T18:41:03+00:00 CRITICAL Cannot redeclare promeni_update() (previously declared in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php:121) in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 151
+
+2022-09-15T18:41:22+00:00 CRITICAL Cannot redeclare promeni_update() (previously declared in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php:121) in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 151
+
+2022-09-15T18:41:26+00:00 CRITICAL Cannot redeclare promeni_update() (previously declared in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php:121) in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 151
+
+2022-09-15T18:41:29+00:00 CRITICAL Cannot redeclare promeni_update() (previously declared in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php:121) in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 151
+
+2022-09-15T18:41:45+00:00 CRITICAL Cannot redeclare promeni_update() (previously declared in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php:121) in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 151
+
+2022-09-15T18:41:49+00:00 CRITICAL Cannot redeclare promeni_update() (previously declared in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php:121) in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 151
+

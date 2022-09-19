@@ -1,0 +1,10 @@
+2022-09-16T06:27:08+00:00 CRITICAL Unmatched '}' in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 161
+
+2022-09-16T06:27:08+00:00 CRITICAL Unmatched '}' in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 161
+
+2022-09-16T06:27:28+00:00 CRITICAL Unmatched '}' in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 160
+
+2022-09-16T06:30:09+00:00 CRITICAL Cannot redeclare remove_billing_fields() (previously declared in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php:155) in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 163
+
+2022-09-16T06:30:09+00:00 CRITICAL Cannot redeclare remove_billing_fields() (previously declared in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php:155) in /home/imartinovic/public_html/projekat/wp-content/themes/divi-child/functions.php on line 163
+
